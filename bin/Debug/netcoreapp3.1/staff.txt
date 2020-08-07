@@ -1,0 +1,4 @@
+Ben, Manager
+Kate, Admin
+Oliver, Manager
+Sam, Admin

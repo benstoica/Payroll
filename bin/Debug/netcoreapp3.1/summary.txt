@@ -1,0 +1,4 @@
+Staff with less than 10 working hours
+
+Name of Staff: Ben, Hours WOrked: 5
+Name of Staff: Sam, Hours WOrked: 3
